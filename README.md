@@ -3,7 +3,9 @@
 <h2>Algunos Conocimientos ⭐</h2>
 <!-------------------->
 <p align="center">
-  <img  align="center" width="100%" src="https://skillicons.dev/icons?i=html,css,js,java,py,express,postman,postgres,git,github,powershell,vscode,ps,ai,gmail,discord,instagram" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,express,postman,postgres,git,github,powershell,vscode,ps,ai,gmail,discord,instagram" />
+  </a>
 </p>
 <!-------------------->
 <div align="center">
