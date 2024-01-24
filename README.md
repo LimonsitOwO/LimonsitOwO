@@ -11,7 +11,7 @@
 <br>
 <!-------------------------->
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=radical" alt="LimonsitOwO" />
 
 -----
 Credits: [Sanskarjaiswal2001](https://github.com/sanskarjaiswal2001)
