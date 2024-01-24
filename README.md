@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=java,py,css,html,js,nodejs,sqlite,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12](https://skillicons.dev/icons?i=html,css,js,java,py,express,postman,postgres,git,github,powershell,vscode,ps,ai,gmail,discord,instagram)https://skillicons.dev/icons?i=html,css,js,java,py,express,postman,postgres,git,github,powershell,vscode,ps,ai,gmail,discord,instagram" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,express,postman,postgres,git,github,powershell,vscode,ps,ai,gmail,discord,instagram" />
   </a>
 </p>
 <br>
