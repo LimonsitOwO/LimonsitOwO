@@ -12,7 +12,4 @@
   <div width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=radical" alt="LimonsitOwO" />
   </div>
-  <div width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=radical" alt="LimonsitOwO" />
-  </div>
 </div>
