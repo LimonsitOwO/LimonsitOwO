@@ -8,8 +8,6 @@
   </a>
 </p>
 <!-------------------->
-<div>
-  <div width="100%" aling="center">
+<div width="100%" aling="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=radical" alt="LimonsitOwO" />
   </div>
-</div>
