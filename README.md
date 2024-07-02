@@ -17,15 +17,25 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 ### Algunas de mis herramientas y tecnologías favoritas 🛠️
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=12" />
-    <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap&theme=dark&perline=12" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark&perline=12" />
-    <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,express,nestjs&theme=dark&perline=12" />
-    <img src="https://skillicons.dev/icons?i=postman,sequelize,mongodb,mysql,postgres,vercel,firebase&theme=dark&perline=12" />
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,notion,ps,ai,gmail,discord,linkedin,instagram&theme=dark&perline=12" />
-  </a>
+  <h2 align="center">🚀 Frontend</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs&theme=dark&perline=8" alt="Frontend Skills" />
 </p>
+
+<p align="center">
+  <h2 align="center">🛠️ Backend</h2>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark&perline=4" alt="Backend Skills" />
+</p>
+
+<p align="center">
+  <h2 align="center">☁️ Nube y Base de Datos</h2>
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,postman,mongodb,mysql,postgres&theme=dark&perline=6" alt="Cloud and Database Skills" />
+</p>
+
+<p align="center">
+  <h2 align="center">🔧 Otras</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,notion,ps,ai,gmail,discord,linkedin,instagram&theme=dark&perline=8" alt="Other Skills" />
+</p>
+
 
 ---
 
