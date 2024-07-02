@@ -9,6 +9,7 @@ Soy un apasionado estudiante de Ingeniería en Sistemas 🚀 y un desarrollador 
 Mi espíritu investigativo 🕵️‍♂️ me lleva a explorar constantemente nuevas tecnologías y métodos para mejorar. Si hay algo nuevo por aprender, ¡allí estoy yo, listo para sumergirme y descubrirlo todo! 🌟
 
 ### Hobbies y pasatiempos 🎮🍳
+
 Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen videojuego 🎮 o experimentando en la cocina 🍳. ¡Sí, cocinar es otra de mis grandes pasiones y siempre estoy buscando nuevas recetas para probar!
 
 ---
@@ -31,16 +32,20 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 ### Lenguajes más utilizados 📊
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=great-gatsby&locale=es" alt="LimonsitOwO" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonsitOwO&count_private=true&theme=great-gatsby&locale=es" alt="LimonsitOwO" />
 </div>
 
 ---
 
 ¡Gracias por pasar por mi perfil! Si te interesa colaborar o simplemente quieres charlar sobre tecnología, videojuegos, o cualquier cosa no dudes en contactarme . 🚀😊
 
-**Correo:** [luislm080304@gmail.com](mailto:luislm080304@gmail.com)  
-**LinkedIn:** [Luis Carlos Ballen](https://www.linkedin.com/in/luis-carlos-ballen/)  
-**WhatsApp:** [+57 3208249935](https://wa.me/573208249935)
+<div align="center">
+<a href="mailto:luislm080304@gmail.com" style="color: purple; font-size: 18px; font-weight: bold;">Mi Correo Electrónico</a>
+<br/>
+<a href="https://www.linkedin.com/in/luis-carlos-ballen/" style="color: purple; font-size: 18px; font-weight: bold;">Mi LinkedIn</a>
+<br/>
+<a href="https://wa.me/573208249935" style="color: purple; font-size: 18px; font-weight: bold;">Mi Whatsapp</a>
+</div>
 
 ---
 
