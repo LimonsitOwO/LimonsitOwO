@@ -33,7 +33,7 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 
 <p align="center">
   <h2 align="center">🔧 Otras</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,notion,ps,ai,gmail,discord,linkedin,instagram&theme=dark&perline=8" alt="Other Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,notion,ps,ai,gmail,discord,linkedin,instagram,docker&theme=dark&perline=8" alt="Other Skills" />
 </p>
 
 
