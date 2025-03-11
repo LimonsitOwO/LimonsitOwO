@@ -23,7 +23,7 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 
 <p align="center">
   <h2 align="center">🛠️ Backend</h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark&perline=4" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=4" alt="Backend Skills" />
 </p>
 
 <p align="center">
