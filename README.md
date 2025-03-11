@@ -28,7 +28,7 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 
 <p align="center">
   <h2 align="center">☁️ Nube y Base de Datos</h2>
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,postman,mongodb,mysql,postgres&theme=dark&perline=6" alt="Cloud and Database Skills" />
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,azure,vercel,postman,mongodb,mysql,postgres&theme=dark&perline=6" alt="Cloud and Database Skills" />
 </p>
 
 <p align="center">
@@ -54,7 +54,8 @@ Cuando no estoy frente a la pantalla, me puedes encontrar disfrutando de un buen
 <br/>
 <a href="https://www.linkedin.com/in/luis-carlos-ballen/" style="color: purple; font-size: 18px; font-weight: bold;">Mi LinkedIn</a>
 <br/>
-<a href="https://wa.me/573208249935" style="color: purple; font-size: 18px; font-weight: bold;">Mi Whatsapp</a>
+<a href="https://wa.me/573208249935"
+ style="color: purple; font-size: 18px; font-weight: bold;">Mi Whatsapp</a>
 </div>
 
 ---
